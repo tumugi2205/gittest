@@ -80,7 +80,7 @@
 - 
 ## 作っていく
 
-
+変更１
 flag = True
 while flag == True
 create :配置
